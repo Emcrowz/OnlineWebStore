@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using WebStoreMVC.Models;
+using WebStore.Models;
 
-namespace WebStoreMVC.Controllers
+namespace WebStoreMVC.Areas.Customer.Controllers
 {
     public class HomeController : Controller
     {
